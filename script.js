@@ -9,7 +9,7 @@ async function genResponse(aiChatBox) {
     let requestOption={
         method:"POST",
         headers:{'Content-Type': 'application/json'},
-        headers:{'X-goog-api-key': 'AIzaSyDri4SWDm3cborej93Lt3m0joBrzXJQXos'},
+        headers:{'X-goog-api-key': 'NIJER API KEY USE KORO KHOKA'},
         body:JSON.stringify({
             
     "contents": [
